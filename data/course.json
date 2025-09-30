@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ]
+  ],
+  "legacy_uid": "f0d48dc6-7e52-71bf-3719-26d000d00d59",
+  "instructors": {
+    "content": [
+      "e4f3f0e1-f02f-7255-ae10-6eb4fc7d786b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9ea0a4fb-c917-8e67-dc52-b26e3a25eb42",
+    "website": "21h-357-south-asian-migrations-spring-2018"
+  },
+  "course_title": "South Asian Migrations",
+  "hide_download": true,
+  "course_description": "This course provides a global history of South Asians and introduces students to the cultural, social, economic, and political experiences of immigrants who traveled across the world. It studies how and why South Asians, who have migrated to America, Europe, Africa, the Caribbean and the Middle East, are considered a model minority in some countries and unwanted strangers in others. Through literature, memoirs, films, music, and historical writing, it follows South Asian migrants as they discovered the world beyond India, Pakistan, and Bangladesh.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.357",
+  "course_image_thumbnail": {
+    "content": "129cc05d-2ee9-b8bd-e086-055babcc641e",
+    "website": "21h-357-south-asian-migrations-spring-2018"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "69e9c89f-dc2e-49cd-a53f-16d76f744016",
+  "site_short_id": "21h.357-spring-2018",
+  "site_url_path": "courses/21h-357-south-asian-migrations-spring-2018",
+  "title": "Course Metadata"
+}
