@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the course topics and key due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -238,7 +236,7 @@ Individual Meetings with Instructor
 
 _In-class viewing and discussion:_
 
-[_Hasan Minhaj: Homecoming King_](https://www.imdb.com/title/tt6900644/?ref_=nv_sr_3). Directed by Christopher Storer. Color, 73 min. 2017.
+{{% resource_link "cfe1e5c9-a6a2-431d-a86a-0d5aeb84011c" "_Hasan Minhaj: Homecoming King_" %}}. Directed by Christopher Storer. Color, 73 min. 2017.
 
 
 {{< tdclose >}}
